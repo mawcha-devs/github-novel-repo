@@ -60,4 +60,9 @@ Every morning I started naming three things I was thankful for—and it changed 
 Discipline is not punishment—it’s a quiet form of self-love.
 It teaches you to pause before reacting, to build before boasting, and to walk alone until the right people walk beside you.
 Solitude reveals your strength. Focus refines your purpose.
+<<<<<<< HEAD
 And in mastering yourself, you master everything that once controlled you.
+=======
+And in mastering yourself, you master everything that once controlled you.
+
+>>>>>>> 42dc0d89acef8f896015b7fb56505f436d3056a3
