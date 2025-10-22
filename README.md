@@ -99,6 +99,8 @@ Growth isn’t linear. Revisit chapters that speak to you differently at new sta
 > “Peace is not the absence of noise, but control within it.”
 
 ---
+---
+
 ```
                                   (c)2025
-``
+```
