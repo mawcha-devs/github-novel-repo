@@ -97,7 +97,6 @@ Chapter 2: The Principles of Presence
 11. Keep some cash ready for unexpected situations.
 
 
-<<<<<<< HEAD
 Chapter 5: The Art of Emotional Control
 
 5.1 Master Yourself Before You React to Others
@@ -112,7 +111,6 @@ Chapter 5: The Art of Emotional Control
 5.10 Walk Away When Peace Costs Less Than Ego
 5.11 Practice Stillness Before You Speak or Respond
 5.12 True Power Is Remaining Unmoved in Chaos
-=======
 
 
 Chapter 3: The Discipline of Solitude
@@ -183,4 +181,19 @@ Chapter 4: Purpose and Direction
 4.6 Let Purpose Guide Your Choices, Not Emotion
 4.7 Embrace Failure as Redirection, Not Defeat
 4.8 Build Consistency Before You Expect Progress
->>>>>>> 42dc0d89acef8f896015b7fb56505f436d3056a3
+
+
+Chapter 5: The Art of Emotional Control
+
+5.1 Master Yourself Before You React to Others
+5.2 Not Every Feeling Deserves an Action
+5.3 Learn the Power of a Measured Response
+5.4 Silence Is Sometimes the Strongest Reply
+5.5 Don’t Let Temporary Emotions Make Permanent Decisions
+5.6 Stay Calm When Others Lose Their Balance
+5.7 Anger Shows Where You’re Weak—Control It
+5.8 Choose Logic When Emotion Demands Attention
+5.9 Emotional Strength Is Staying Kind Under Pressure
+5.10 Walk Away When Peace Costs Less Than Ego
+5.11 Practice Stillness Before You Speak or Respond
+5.12 True Power Is Remaining Unmoved in Chaos
