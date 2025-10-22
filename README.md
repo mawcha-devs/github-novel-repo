@@ -94,3 +94,7 @@ Growth isn’t linear. Revisit chapters that speak to you differently at new sta
 
 ## 🗂️ Project Structure (for GitHub)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> chapter3
